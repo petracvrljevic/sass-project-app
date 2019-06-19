@@ -38,6 +38,7 @@ gem 'bootsnap', '>= 1.1.0', require: false
 
 gem 'devise'
 gem 'milia'
+gem 'aws-sdk'
 
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
